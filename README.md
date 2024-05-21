@@ -1,2 +1,2 @@
 # DSA
-Assignment_1
+Assignment 1  ( two sum, duplicate ) 
